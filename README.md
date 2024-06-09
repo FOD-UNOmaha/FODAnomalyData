@@ -21,4 +21,4 @@ This figure is an overview of the detection methodology presented in the paper.
 </p>
 
 ## Download Data
-[FOD Anomaly Data Download](https://docs.google.com/uc?export=download&id=1ayz5qo46pxoLpxx1h3EnnucI8EOflZTz)
+The data is no longer available. Feel free to use normal images of common concrete to reproduce the paper. To improve performance, include several shades of concrete and painted lines similar to those seen in airports.
